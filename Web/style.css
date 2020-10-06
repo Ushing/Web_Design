@@ -1,0 +1,275 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+body
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	line-height:1.5em;
+}
+.container
+{
+	 width:100%;
+	 margin:0 auto;
+}
+.clear
+{
+	overflow:hidden;
+}
+.Header
+{
+	min-height:450px;
+	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), url(source-code.png);
+	opacity:.8;
+}
+.Header h1
+{
+	text-align:center;
+	color:white;
+	padding-top: 120px;
+	font-size:40px;
+}
+.Header p
+{
+	text-align:center;
+	color:white;
+	padding-top: 30px;
+	font-size:15px;
+}
+.button
+{
+	display: inline-block;
+    background: #333;
+    color: #fff;
+    text-decoration: none;
+    padding: 1em 2em;
+    border: 1px solid #666;
+    margin: 0.5em 0;
+}
+.button:hover
+{
+	background-color:white;
+	color:black;
+}
+.button a:hover
+{
+	color:black;
+}
+.Web
+{
+	border:1px soil black;
+	height:300px;
+	background-color:white;
+	
+}
+.web_Application h1
+{
+	text-align:center;
+	padding-top:50px;
+}
+.left p
+{
+	padding:60px;
+	width:500px;
+	background-color:white;
+	text-align:center;
+	text-align:justify;
+	padding-left:60px;
+	float:left;
+	font-size:20px;
+}
+.right p
+{
+	padding:40px;
+	width:500px;
+	background-color:white;
+	text-align:center;
+	text-align:justify;
+	padding-right:60px;
+	float:right;
+	font-size:20px;
+	
+}
+.Web_Mobile_Tech
+{
+	border:1px soil black;
+	height:500px;
+	background-color:Gray;
+	width:100%;
+	display: flex;
+	justify-content: center;
+	padding-top:100px;
+	
+}
+
+.Web_background
+{
+	background-color:white;
+	width:20%;
+	margin:40px;
+	display:inline-block;
+	height:70%;
+	
+	
+}
+.Web_Development img
+{
+  width:100%;
+  height:140px;
+  
+  
+}
+.Web_Development h1
+{
+	text-align:center;
+	padding-top:40px;
+	
+}
+.Web_Development p
+{
+	text-align:center;
+	padding-top:40px;
+	text-align:justify;
+	padding-bottom:2%;
+}
+
+.Moblile_Ammlication
+{
+	background-color:white;
+	width:20%;
+	margin:40px;
+	display:inline-block;
+	height:70%;
+	
+	
+}
+.Mobile img
+{
+  width:100%;
+  height:140px;
+  
+  
+}
+.Mobile h1
+{
+	text-align:center;
+	padding-top:40px;
+	
+}
+.Mobile p
+{
+	text-align:center;
+	padding-top:40px;
+	text-align:justify;
+	padding-bottom:2%;
+}
+.Tech_Marketing
+{
+	background-color:white;
+	width:20%;
+	margin:40px;
+	display:inline-block;
+	height:70%;
+	
+}
+.Tech img
+{
+  width:100%;
+  height:140px;
+  
+}
+.Tech h1
+{
+	text-align:center;
+	padding-top:40px;
+	
+}
+.Tech p
+{
+	text-align:center;
+	padding-top:40px;
+	text-align:justify;
+	padding-bottom:2%;
+}
+.digital_needs
+{
+	height:300px;
+	border:1px soil black;
+	background:white;
+}
+.digital_needs h1
+{
+	padding:30px;
+	text-align:center;
+	padding-top:80px;
+	
+}
+.digital_needs p
+{
+	text-align:center;
+	font-size:20px;
+}
+.Contuct
+{
+	width:100%;
+	height:300px;
+	border:1px soil black;
+	display: flex;
+}
+.Contact_Us
+{
+	background-color:DodgerBlue;
+	width:50%;
+	height:100%;
+	max-width:50%;
+}
+.Contact_Us h1
+{
+	text-align:center;
+	padding-top:10%;
+	color:white;
+}
+.Contact_Us p
+{
+	text-align:center;
+	padding-top:10%;
+	color:white;
+	font-size:20px;
+}
+.About
+{
+	background-color:#333;
+    float:right;
+	width:50%;
+	height:100%;
+	
+}
+.About h1
+{
+	text-align:center;
+	padding-top:10%;
+	color:white;
+}
+.About p
+{
+	text-align:center;
+	padding-top:10%;
+	color:white;
+	font-size:20px;
+}
+.Solutions
+{
+	background-color:black;
+	width:100%;
+	height:130px;
+}
+.Solutions h5
+{
+	
+	color:white;
+	font-size:20px;
+	text-align:center;
+	padding-top:60px;
+}
